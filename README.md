@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1kjm
-- 👀 I’m interested in Dart Flutter and Firebase
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on FullStack Flutter Projects
+- 👀 I am a flutter aficionado who loves React and Spring.
+- 🌱 I’m currently learning Swift.
 - 📫 reachme @ developer.kjm@gmail.com
 
 
