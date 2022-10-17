@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @1kjm
-- 👀 I am a flutter aficionado who loves React and Spring.
-- 🌱 I’m currently learning Swift.
+- 👀 I am passionate learner and Tech Enthusiast
 - 📫 reachme @ developer.kjm@gmail.com
 
 
